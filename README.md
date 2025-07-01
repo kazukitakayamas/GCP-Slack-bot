@@ -9,7 +9,9 @@
 ![image](https://github.com/user-attachments/assets/d888b825-14a9-48a1-a5f2-d0ec68578258)
 
 ※Slackのイメージ図（問題発言を検出）
-![image](https://github.com/user-attachments/assets/bf99d04f-397c-4c35-99f3-1496e1c79fff)
+※敢えて、問題となる発言をしていますのでご留意ください
+![image](https://github.com/user-attachments/assets/0e20aa8f-71ec-4730-9bc0-2f50eb5b42f5)
+
 
 
 ### ステップ1: プロジェクトの準備
