@@ -1,0 +1,32 @@
+slack:
+  bot_token: ""   # SlackボットのOAuthトークン
+  app_token: ""   # SlackアプリのAppレベルトークン（Socket Mode用）
+gemini:
+  # api_key: ""   # Gemini APIキー
+  api_key: ""
+monitor_channels:
+  - "ID "   # 監視対象のSlackチャンネルIDのリスト
+  - "ID "
+admin_users:
+  - "ID "   # 通知先管理者のユーザーIDリスト
+  # - "U0987654321"
+google_sheets:
+  spreadsheet_id: ""  # GoogleスプレッドシートのID
+  sheet_name: "違反ログ"  # シート名
+  credentials_path: "/opt/slack-bot/credentials.json"   # Google APIの認証情報ファイルパス
+
+notion:
+  token: ""  # Notion APIトークン
+  database_id: ""  # ランキング用データベースID
+
+# 有益とみなすリアクション（カスタマイズ可能）
+valuable_reactions:
+  - "👍"
+  - "💡"
+  - "🙏"
+  - "✨"
+  - "👏"
+  - "💯"
+  - "📚"  # アカデミック向けに追加
+  - "🎓"  # 学習系のリアクション
+
