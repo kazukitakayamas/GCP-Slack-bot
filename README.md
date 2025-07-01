@@ -1,4 +1,8 @@
-# GCP-Slack-bot（GCPを用いたSlackボットの開発手順）
+# GCP-Slack-bot（GCPを用いたSlackボットアプリケーションの開発手順）
+
+## 立教大学人工知能科学研究科　自己推薦　活動報告用
+
+作成者：高山一樹（たかやま　かずき）
 
 ## Compute Engineを使ったデプロイ手順
 ※GCPの完成イメージ
